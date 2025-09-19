@@ -1,7 +1,7 @@
 # Windows10ESUScript
 
-![GitHub](https://img.shields.io/github/license/username/repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo)
+![GitHub](https://img.shields.io/github/license/davidolive-hppl/Windows10ESUScript)
+![GitHub last commit](https://img.shields.io/github/last-commit/davidolive-hppl/Windows10ESUScript)
 
 PowerShell Script to apply the Windows 10 ESU Update - credit to systemcenterdudes.com
 
