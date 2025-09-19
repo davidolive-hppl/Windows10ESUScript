@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/davidolive-hppl/Windows10ESUScript)
 ![GitHub last commit](https://img.shields.io/github/last-commit/davidolive-hppl/Windows10ESUScript)
 
-PowerShell Script to apply the Windows 10 ESU Update - credit to systemcenterdudes.com
+PowerShell Script to apply the Windows 10 ESU Update - [credit to systemcenterdudes.com][https://www.systemcenterdudes.com/deploy-windows-10-extended-security-update-key-with-intune-or-sccm/]
 
 ## Key Features and Highlights
 
@@ -39,3 +39,5 @@ PowerShell Script to apply the Windows 10 ESU Update - credit to systemcenterdud
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+[https://www.systemcenterdudes.com/deploy-windows-10-extended-security-update-key-with-intune-or-sccm/]: https://www.systemcenterdudes.com/deploy-windows-10-extended-security-update-key-with-intune-or-sccm/
